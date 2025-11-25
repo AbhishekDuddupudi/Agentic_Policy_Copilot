@@ -1,4 +1,3 @@
-# Agentic_Policy_Copilot
 # Agentic Policy & Ticket Copilot (LangGraph Demo)
 
 A small **agentic AI** demo that acts as an internal **Policy & Ticket Copilot**.  
