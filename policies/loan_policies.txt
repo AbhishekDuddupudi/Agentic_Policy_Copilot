@@ -1,0 +1,34 @@
+Loan Approval Policy
+
+1. Purpose
+This policy describes the criteria we use to evaluate and approve customer loan applications.
+
+2. Eligibility Criteria
+Applicants must:
+- Be at least 18 years old.
+- Provide valid government-issued identification.
+- Provide proof of income for the last 3 months.
+- Meet minimum credit score requirements as defined by our risk team.
+
+3. Documentation
+Required documents include:
+- Recent pay stubs or bank statements.
+- Photo ID (passport, driver’s license, or national ID).
+- Address verification (utility bill or bank statement).
+
+4. Income and Affordability Assessment
+We assess:
+- Monthly net income.
+- Existing debts and obligations.
+- Debt-to-income ratio.
+- Employment stability.
+
+5. Decision Process
+- Applications are initially scored using an automated credit model.
+- Borderline or special cases may be escalated to a manual underwriter.
+- Final decisions are communicated via email or the online portal.
+
+6. Appeals
+Applicants can request a review of declined applications by submitting additional documentation within 14 days.
+
+For full details or edge cases, please refer to the internal underwriting guidelines.

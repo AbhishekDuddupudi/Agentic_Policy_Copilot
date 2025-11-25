@@ -1,0 +1,29 @@
+Ticket Escalation Policy
+
+1. Overview
+This policy defines how customer support tickets are prioritized and escalated.
+
+2. Priority Levels
+- P1 (Critical): Service outage, security incident, or major financial impact.
+- P2 (High): Severe functionality issues with no workaround.
+- P3 (Medium): Degraded performance or minor feature issues.
+- P4 (Low): General questions, minor UI issues, or requests for information.
+
+3. Response Times
+- P1: Initial response within 1 hour, 24/7.
+- P2: Initial response within 4 business hours.
+- P3: Initial response within 1 business day.
+- P4: Initial response within 2 business days.
+
+4. Escalation Rules
+- If a P1 ticket is not resolved within 4 hours, it must be escalated to on-call engineering and a manager.
+- If a P2 ticket is not resolved within 2 business days, escalate to the team lead.
+- Any ticket can be escalated if there is significant customer dissatisfaction or regulatory impact.
+
+5. Communication
+All escalations must be documented in the ticket with:
+- Reason for escalation.
+- New owner or team.
+- Next expected update time.
+
+Support agents should keep customers informed until resolution.

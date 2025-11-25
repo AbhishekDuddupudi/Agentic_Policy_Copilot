@@ -1,0 +1,37 @@
+Customer Data Privacy Policy
+
+1. Data We Collect
+We collect:
+- Contact information (name, email, phone number).
+- Account information (user ID, login history).
+- Transaction data (payments, refunds, loan applications).
+- Support interaction history (tickets, calls, chat transcripts).
+
+2. How We Use Data
+We use customer data to:
+- Provide and improve our services.
+- Process payments and refunds.
+- Review loan applications.
+- Investigate and resolve support issues.
+- Comply with legal and regulatory obligations.
+
+3. Data Retention
+We retain data only as long as necessary for:
+- Providing services.
+- Meeting legal, tax, and compliance requirements.
+- Handling disputes and audits.
+
+4. Data Sharing
+We may share data with:
+- Payment processors.
+- Credit bureaus (for loan and risk assessments).
+- Regulatory authorities when required by law.
+We do not sell customer data to third parties.
+
+5. Customer Rights
+Customers can:
+- Request access to their data.
+- Request correction of inaccurate information.
+- Request deletion where legally permitted.
+
+For any privacy-related questions, contact the Privacy Office or Support.
